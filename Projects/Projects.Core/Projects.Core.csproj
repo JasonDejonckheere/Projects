@@ -7,18 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Classic Algorithms\" />
-    <Folder Include="Graph\" />
-    <Folder Include="Data structures\" />
-    <Folder Include="Networking\" />
-    <Folder Include="Classes\" />
-    <Folder Include="Files\" />
-    <Folder Include="Databases\" />
-    <Folder Include="Graphics and Multimedia\" />
-    <Folder Include="Security\" />
-    <Folder Include="Web\" />
-    <Folder Include="Threading\" />
-    <Folder Include="Text\" />
+    <Folder Include="Exercises\Classic Algorithms\" />
+    <Folder Include="Exercises\Graph\" />
+    <Folder Include="Exercises\Data structures\" />
+    <Folder Include="Exercises\Networking\" />
+    <Folder Include="Exercises\Classes\" />
+    <Folder Include="Exercises\Files\" />
+    <Folder Include="Exercises\Databases\" />
+    <Folder Include="Exercises\Graphics and Multimedia\" />
+    <Folder Include="Exercises\Security\" />
+    <Folder Include="Exercises\Web\" />
+    <Folder Include="Exercises\Threading\" />
+    <Folder Include="Exercises\Text\" />
   </ItemGroup>
 
 </Project>

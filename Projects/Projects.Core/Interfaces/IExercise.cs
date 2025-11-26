@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projects.Core.Numbers
+namespace Projects.Core.Interfaces
 {
-    public class FindPiToTheNthDigit
+    internal interface IExercise
     {
-
+        void Run();
     }
 }

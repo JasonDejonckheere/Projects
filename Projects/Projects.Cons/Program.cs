@@ -1,10 +1,14 @@
-﻿namespace Projects.Cons
+﻿using Projects.Core;
+using Projects.Core.Exercises.Numbers;
+
+namespace Projects.Cons
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            FindPiToTheNthDigit exercise = new FindPiToTheNthDigit();
+            exercise.Run();
         }
     }
 }

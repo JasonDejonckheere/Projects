@@ -1,0 +1,12 @@
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\bin\Debug\net8.0\Projects.Core.deps.json
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\bin\Debug\net8.0\Projects.Core.dll
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\bin\Debug\net8.0\Projects.Core.pdb
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.AssemblyInfo.cs
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.sourcelink.json
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.dll
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\refint\Projects.Core.dll
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\Projects.Core.pdb
+C:\Users\Jason\source\repos\Projects\Projects\Projects.Core\obj\Debug\net8.0\ref\Projects.Core.dll
