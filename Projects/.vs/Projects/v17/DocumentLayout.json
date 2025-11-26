@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\projects.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\projects.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.cons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|solutionrelative:projects.cons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindPiToTheNthDigit.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Numbers\\FindPiToTheNthDigit.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Numbers\\FindPiToTheNthDigit.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Numbers\\FindPiToTheNthDigit.cs",
+              "RelativeToolTip": "Projects.Core\\Numbers\\FindPiToTheNthDigit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:45:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projects.Core",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeDocumentMoniker": "Projects.Core\\Projects.Core.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeToolTip": "Projects.Core\\Projects.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T16:44:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "RelativeDocumentMoniker": "Projects.Cons\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "RelativeToolTip": "Projects.Cons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

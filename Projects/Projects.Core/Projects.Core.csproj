@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Classic Algorithms\" />
+    <Folder Include="Graph\" />
+    <Folder Include="Data structures\" />
+    <Folder Include="Networking\" />
+    <Folder Include="Classes\" />
+    <Folder Include="Files\" />
+    <Folder Include="Databases\" />
+    <Folder Include="Graphics and Multimedia\" />
+    <Folder Include="Security\" />
+    <Folder Include="Web\" />
+    <Folder Include="Threading\" />
+    <Folder Include="Text\" />
+  </ItemGroup>
+
+</Project>
