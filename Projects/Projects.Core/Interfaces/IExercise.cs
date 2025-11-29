@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projects.Core.Interfaces
 {
-    internal interface IExercise
+    public interface IExercise
     {
         void Run();
     }

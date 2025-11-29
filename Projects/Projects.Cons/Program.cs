@@ -1,5 +1,6 @@
 ﻿using Projects.Core;
 using Projects.Core.Exercises.Numbers;
+using Projects.Core.Interfaces;
 
 namespace Projects.Cons
 {
@@ -7,7 +8,7 @@ namespace Projects.Cons
     {
         static void Main(string[] args)
         {
-            FindPiToTheNthDigit exercise = new FindPiToTheNthDigit();
+            IExercise exercise = new FindEToTheNthDigit();
             exercise.Run();
         }
     }

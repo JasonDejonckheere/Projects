@@ -1,7 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\",
+  "WorkspaceRootPath": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\numbers\\findetothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\numbers\\findetothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,64 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "FindEToTheNthDigit.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:18:45.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IExercise.cs",
-              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Interfaces\\IExercise.cs",
-              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
               "RelativeToolTip": "Projects.Core\\Interfaces\\IExercise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:54:20.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FindPiToTheNthDigit.cs",
-              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
-              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
               "RelativeToolTip": "Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:45:52.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Projects.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
               "RelativeDocumentMoniker": "Projects.Core\\Projects.Core.csproj",
-              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
               "RelativeToolTip": "Projects.Core\\Projects.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-26T16:44:02.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:44:02.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
               "RelativeDocumentMoniker": "Projects.Cons\\Program.cs",
-              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
               "RelativeToolTip": "Projects.Cons\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:43:02.771Z",
               "EditorCaption": ""
