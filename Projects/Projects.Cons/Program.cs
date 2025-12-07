@@ -8,7 +8,7 @@ namespace Projects.Cons
     {
         static void Main(string[] args)
         {
-            IExercise exercise = new FindEToTheNthDigit();
+            IExercise exercise = new FibonacciSequence();
             exercise.Run();
         }
     }
