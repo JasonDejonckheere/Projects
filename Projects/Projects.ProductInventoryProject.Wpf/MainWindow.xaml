@@ -8,6 +8,12 @@
         Title="MainWindow" Height="600" Width="900" Background="#FF292929" Loaded="Window_Loaded">
     <Grid>
         <Label x:Name="lblInventoryCount" Content="# of items in inventory:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="221"/>
+        <Button x:Name="btnNewProduct" Content="New product" HorizontalAlignment="Left" Margin="805,85,0,0" VerticalAlignment="Top" Click="BtnNewProduct_Click"/>
+        <Button x:Name="btnBuy" Content="Buy stock" HorizontalAlignment="Left" Margin="120,85,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSell" Content="SellStock" HorizontalAlignment="Left" Margin="120,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtBuy" HorizontalAlignment="Left" Margin="35,86,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69"/>
+        <TextBox x:Name="txtSell" HorizontalAlignment="Left" Margin="35,119,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="470,86,0,0" VerticalAlignment="Top" Foreground="White"/>
 
     </Grid>
 </Window>

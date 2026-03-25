@@ -33,5 +33,10 @@ namespace Projects.ProductInventoryProject.Wpf
 
             lblInventoryCount.Content = $"# of items in inventory: {_inventoryService.GetAmountOfProducts()}";
         }
+
+        private void BtnNewProduct_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
