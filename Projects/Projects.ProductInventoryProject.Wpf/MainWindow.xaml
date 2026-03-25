@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="900" Background="#FF292929" Loaded="Window_Loaded">
     <Grid>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="61"/>
+        <Label x:Name="lblInventoryCount" Content="# of items in inventory:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="221"/>
 
     </Grid>
 </Window>

@@ -1,4 +1,5 @@
 ﻿using Projects.Core.Exercises.Classes.Product_Inventory_Project;
+using Projects.Core.Exercises.Classes.Product_Inventory_Project.Services;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -18,6 +19,7 @@ namespace Projects.ProductInventoryProject.Wpf
     public partial class MainWindow : Window
     {
         private Inventory inventory;
+        private InventoryService _inventoryService;
 
         public MainWindow()
         {
@@ -27,6 +29,9 @@ namespace Projects.ProductInventoryProject.Wpf
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             inventory = new Inventory();
+            _inventoryService = new InventoryService(inventory);
+
+            lblInventoryCount.Content = $"# of items in inventory: {_inventoryService.GetAmountOfProducts()}";
         }
     }
 }
