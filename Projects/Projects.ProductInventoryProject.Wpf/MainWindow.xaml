@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Projects.ProductInventoryProject.Wpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="900">
+        Title="MainWindow" Height="600" Width="900" Background="#FF292929" Loaded="Window_Loaded">
     <Grid>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="61"/>
 
     </Grid>
 </Window>

@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using Projects.Core.Exercises.Classes.Product_Inventory_Project;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,9 +17,16 @@ namespace Projects.ProductInventoryProject.Wpf
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Inventory inventory;
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            inventory = new Inventory();
         }
     }
 }

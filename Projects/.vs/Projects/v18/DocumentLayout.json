@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
@@ -167,15 +167,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:03:23.511Z"
+              "WhenOpened": "2026-03-25T17:03:23.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

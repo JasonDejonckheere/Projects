@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projects.ProductInventoryProject.Wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93a13089f337ac1926ec65a3575d1bd57932f0f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09620864408f33c68eb068dcc159a04bc0e6f823")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projects.ProductInventoryProject.Wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projects.ProductInventoryProject.Wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
