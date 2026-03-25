@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Exercises\Classes\Product Inventory Project\" />
     <Folder Include="Exercises\Classic Algorithms\" />
     <Folder Include="Exercises\Graph\" />
     <Folder Include="Exercises\Data structures\" />
