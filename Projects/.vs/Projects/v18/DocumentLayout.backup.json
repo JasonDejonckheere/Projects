@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\resultmodel\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\resultmodel\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\projects.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\projects.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.cons\\projects.cons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|solutionrelative:projects.cons\\projects.cons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\projects.productinventoryproject.wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\projects.productinventoryproject.wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\projects.productinventoryproject.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\projects.productinventoryproject.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\interfaces\\iexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\interfaces\\iexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.cons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4275883-FB75-4D25-8A4F-059F35DD48B5}|Projects.Cons\\Projects.Cons.csproj|solutionrelative:projects.cons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\numbers\\fibonaccisequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\numbers\\fibonaccisequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\numbers\\findetothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\numbers\\findetothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\numbers\\findpitothenthdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\projects.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\projects.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:45:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductResult.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:23:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:07:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projects.Cons",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Projects.Cons.csproj",
+              "RelativeDocumentMoniker": "Projects.Cons\\Projects.Cons.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Projects.Cons.csproj",
+              "RelativeToolTip": "Projects.Cons\\Projects.Cons.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T17:04:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projects.ProductInventoryProject.Wpf.csproj",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T17:04:08.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projects.ProductInventoryProject.Wpf",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T17:04:11.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projects.Core",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeDocumentMoniker": "Projects.Core\\Projects.Core.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeToolTip": "Projects.Core\\Projects.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T17:04:01.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-25T17:03:23.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwJMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:03:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:08:16.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "RelativeDocumentMoniker": "Projects.Cons\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Cons\\Program.cs",
+              "RelativeToolTip": "Projects.Cons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:57:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FibonacciSequence.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FibonacciSequence.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Numbers\\FibonacciSequence.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FibonacciSequence.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Numbers\\FibonacciSequence.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:57:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FindEToTheNthDigit.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Numbers\\FindEToTheNthDigit.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:57:29.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExercise.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Interfaces\\IExercise.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Interfaces\\IExercise.cs",
+              "RelativeToolTip": "Projects.Core\\Interfaces\\IExercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:57:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FindPiToTheNthDigit.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "RelativeToolTip": "Projects.Core\\Exercises\\Numbers\\FindPiToTheNthDigit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:57:29.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Projects.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeDocumentMoniker": "Projects.Core\\Projects.Core.csproj",
+              "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Projects.Core.csproj",
+              "RelativeToolTip": "Projects.Core\\Projects.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T16:57:29.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
@@ -11,7 +11,6 @@
     <Folder Include="Exercises\Graph\" />
     <Folder Include="Exercises\Data structures\" />
     <Folder Include="Exercises\Networking\" />
-    <Folder Include="Exercises\Classes\" />
     <Folder Include="Exercises\Files\" />
     <Folder Include="Exercises\Databases\" />
     <Folder Include="Exercises\Graphics and Multimedia\" />
