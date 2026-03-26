@@ -19,3 +19,7 @@ C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.W
 C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\obj\Debug\net10.0-windows7.0\Projects.ProductInventoryProject.Wpf.pdb
 C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\obj\Debug\net10.0-windows7.0\Projects.ProductInventoryProject.Wpf.genruntimeconfig.cache
 C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\obj\Debug\net10.0-windows7.0\ref\Projects.ProductInventoryProject.Wpf.dll
+C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\bin\Debug\net10.0-windows7.0\Projects.Core.dll
+C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\bin\Debug\net10.0-windows7.0\Projects.Core.pdb
+C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\obj\Debug\net10.0-windows7.0\Projects.ProductInventoryProject.Wpf.csproj.AssemblyReference.cache
+C:\Users\Jason\source\repos\Projects\Projects\Projects.ProductInventoryProject.Wpf\obj\Debug\net10.0-windows7.0\Projects.3D89E50E.Up2Date

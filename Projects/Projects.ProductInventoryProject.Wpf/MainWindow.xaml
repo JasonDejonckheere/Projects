@@ -5,15 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Projects.ProductInventoryProject.Wpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="900" Background="#FF292929" Loaded="Window_Loaded">
+        Title="Product Inventory Manager" Height="400" Width="900" Background="#FF292929" Loaded="Window_Loaded">
     <Grid>
-        <Label x:Name="lblInventoryCount" Content="# of items in inventory:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="221"/>
-        <Button x:Name="btnNewProduct" Content="New product" HorizontalAlignment="Left" Margin="805,85,0,0" VerticalAlignment="Top" Click="BtnNewProduct_Click"/>
-        <Button x:Name="btnBuy" Content="Buy stock" HorizontalAlignment="Left" Margin="120,85,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="btnSell" Content="SellStock" HorizontalAlignment="Left" Margin="120,119,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtBuy" HorizontalAlignment="Left" Margin="35,86,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69"/>
-        <TextBox x:Name="txtSell" HorizontalAlignment="Left" Margin="35,119,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="470,86,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="766*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblInventoryCount" Content="# of items in inventory:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" Width="221" Grid.ColumnSpan="3"/>
+        <Button x:Name="btnNewProduct" Content="New product" HorizontalAlignment="Left" Margin="639,32,0,0" VerticalAlignment="Top" Click="BtnNewProduct_Click" Grid.Column="2"/>
+        <Button x:Name="btnBuy" Content="Buy stock" HorizontalAlignment="Left" Margin="61,85,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnSell" Content="SellStock" HorizontalAlignment="Left" Margin="61,119,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtBuy" HorizontalAlignment="Left" Margin="35,86,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtSell" HorizontalAlignment="Left" Margin="35,119,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblProductName" Content="Name:" HorizontalAlignment="Left" Margin="525,82,0,0" VerticalAlignment="Top" Foreground="White" Grid.Column="2"/>
+        <TextBox x:Name="txtProductName" HorizontalAlignment="Left" Margin="592,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
+        <Label x:Name="lblProductPrice" Content="Price (€):" HorizontalAlignment="Left" Margin="525,106,0,0" VerticalAlignment="Top" Foreground="White" Grid.Column="2"/>
+        <TextBox x:Name="txtProductPrice" HorizontalAlignment="Left" Margin="592,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="102,85,298,61" Grid.Column="2"/>
+        <Label x:Name="lblProductListbox" Content="Current products in inventory:" HorizontalAlignment="Left" Margin="102,54,0,0" VerticalAlignment="Top" Foreground="White" Grid.Column="2"/>
 
     </Grid>
 </Window>
