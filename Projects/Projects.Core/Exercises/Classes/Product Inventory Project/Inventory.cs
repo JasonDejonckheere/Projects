@@ -64,5 +64,18 @@ namespace Projects.Core.Exercises.Classes.Product_Inventory_Project
             }
             return product.Buy(quantity);
         }
+
+        public bool ContainsProduct(Product product)
+        {
+            var normalizedProductList = ProductsInInventory
+                .Select(p => p.Name.ToUpper());
+
+            if (normalizedProductList.Contains(product.Name.ToUpper()))
+            {
+                return true;
+            }
+
+            return false;
+        }
     }
 }

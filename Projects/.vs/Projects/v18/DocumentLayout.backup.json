@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D507F006-F0A0-4D54-9A8C-1C21B6B4A34C}|Projects.ProductInventoryProject.Wpf\\Projects.ProductInventoryProject.Wpf.csproj|solutionrelative:projects.productinventoryproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\resultmodel\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\resultmodel\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|solutionrelative:projects.core\\exercises\\classes\\product inventory project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{464B2C7E-346C-4F70-810C-0274B03FB536}|Projects.Core\\Projects.Core.csproj|c:\\users\\jason\\source\\repos\\projects\\projects\\projects.core\\projects.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InventoryService.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
@@ -86,11 +86,12 @@
               "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Services\\InventoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:45:22.125Z"
+              "WhenOpened": "2026-03-25T17:45:22.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductResult.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\ResultModel\\ProductResult.cs",
@@ -102,15 +103,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
               "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
               "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:07:07.824Z"
+              "WhenOpened": "2026-03-25T17:07:07.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml",
@@ -171,28 +173,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "Projects.ProductInventoryProject.Wpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIA3wCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwJMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T17:03:23.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
               "RelativeDocumentMoniker": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
               "ToolTip": "C:\\Users\\Jason\\source\\repos\\Projects\\Projects\\Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
               "RelativeToolTip": "Projects.Core\\Exercises\\Classes\\Product Inventory Project\\Inventory.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwEAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:08:16.044Z"
+              "WhenOpened": "2026-03-25T17:08:16.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
